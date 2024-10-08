@@ -1,0 +1,28 @@
+{
+    "name": "Project Z",
+    "short_name": "Project Z",
+    "description": "Bustabit-inspired roguelike.",
+    "icons": [
+      {
+        "src": "/icons/icon.jpg",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/icons/icon.jpg",
+        "sizes": "384x384",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/icon.jpg",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait"
+  }
